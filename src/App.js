@@ -8,6 +8,8 @@ function App() {
       <img alt="Imágen del profe diego" src="diego.jpg" style={{width:"350px"}}/>
       <h1>CAPÍTULO 1: COMO CREAR UNA RAMA EN GITHUB</h1>
       <img alt="Imágen del profe diego" src="diego2.jpg" style={{width:"350px"}}/>
+      <h1>CÁPITULO 2: QUÉ HACER CUANDO NO COMPILA EL CÓDIGO</h1>
+      <img alt="Imágen del profe diego" src="diego3.jpg" style={{width:"350px"}}/>
     </div>
   );
 }
